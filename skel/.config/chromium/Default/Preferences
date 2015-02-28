@@ -8,11 +8,11 @@
       "extensions": {
          "ids": [ "ahfgeienlihckogmohjhadlkjgocpleb" ]
       },
-      "homepage": "http://argent.ro/",
+      "homepage": "http://rogentos.ro/",
       "homepage_is_newtabpage": false,
       "session": {
          "restore_on_startup": 1,
-		 "urls_to_restore_on_startup": [ "http://argent.ro", "http://wiki.argent.ro" ]
+		 "urls_to_restore_on_startup": [ "http://rogentos.ro", "http://wiki.rogentos.ro" ]
       }
    },
    "browser": {
@@ -76,7 +76,7 @@
          "use_system": true
       }
    },
-   "homepage": "http://argent.ro/",
+   "homepage": "http://rogentos.ro/",
    "homepage_changed": true,
    "homepage_is_newtabpage": false,
    "instant": {
